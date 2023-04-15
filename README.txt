@@ -1,4 +1,4 @@
-Colección de Cartas
+Colección de Cartas de Yu-Gi-Oh!
 
 Cartas actuales:
 -Mago Oscuro
